@@ -20,10 +20,10 @@
 ```
 
 ## 运行方式
-运行环境：
+运行环境 (Taichi version >= 0.8.4)：
 
 ```
-[Taichi] version 0.8.3, llvm 10.0.0, commit 021af5d2, win, python 3.8.10
+[Taichi] version 0.8.6, llvm 10.0.0, commit d5f18ffd, win, python 3.8.11
 ```
 
 按键
